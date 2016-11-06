@@ -1605,6 +1605,7 @@
 		.wrapper.style1 {
 			background-image: none;
 			background-color: #fff;
+			border-radius: 5px solid color:red;
 		}
 
 		.wrapper.style2 {
