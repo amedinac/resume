@@ -1295,13 +1295,13 @@
 	}
 
 		.image img {
-			/*display: block;*/
-			display: none;
+			display: block;
 			width: 100%;
 		}
 
 		.image.fit {
-			display: block;
+
+			display: none;
 			width: 100%;
 		}
 
