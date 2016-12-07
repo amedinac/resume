@@ -1295,7 +1295,8 @@
 	}
 
 		.image img {
-			display: block;
+			/*display: block;*/
+			display: none;
 			width: 100%;
 		}
 
