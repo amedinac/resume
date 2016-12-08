@@ -16,7 +16,6 @@
 		font-size: 100%;
 		font: inherit;
 		vertical-align: baseline;
-
 	}
 
 	article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
@@ -171,7 +170,6 @@
 		-moz-box-sizing: border-box;
 		-webkit-box-sizing: border-box;
 		box-sizing: border-box;
-
 	}
 
 	.row > * {
@@ -179,7 +177,6 @@
 		-moz-box-sizing: border-box;
 		-webkit-box-sizing: border-box;
 		box-sizing: border-box;
-
 	}
 
 	.row:after, .row:before {
@@ -1626,7 +1623,6 @@
 			background-color: #303030;
 			color: #999;
 			text-shadow: -1px -1px 0px #181818;
-	
 		}
 
 			.wrapper.style4 h1, .wrapper.style4 h2, .wrapper.style4 h3, .wrapper.style4 h4, .wrapper.style4 h5, .wrapper.style4 h6 {
@@ -1816,13 +1812,7 @@
 					}
 
 				.box.style2 h3 {
-					margin-bottom: 0.25em;	
-
-				}
-
-				/*.box.style2 p {
-					height: 120px;	*/
-
+					margin-bottom: 0.25em;
 				}
 
 				.box.style2 .image {
@@ -1831,7 +1821,6 @@
 					top: 2em;
 					margin: -4em 0 4em -4em;
 					width: auto;
-
 				}
 
 		/* Wrappers */
@@ -1871,7 +1860,6 @@
 
 			#top {
 				text-align: left;
-
 			}
 
 				#top .image {
@@ -2076,7 +2064,6 @@
 					margin: -50px 0 50px -40px;
 					width: auto;
 				}
-
 
 		/* Wrappers */
 
